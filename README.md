@@ -23,4 +23,4 @@
   <img src="https://img.icons8.com/color/48/null/sass.png"/>
   <img src="https://img.icons8.com/color/48/null/tailwindcss.png"/>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teatou)](https://github.com/anuraghazra/github-readme-stats)
