@@ -23,4 +23,3 @@
   <img src="https://img.icons8.com/color/48/null/sass.png"/>
   <img src="https://img.icons8.com/color/48/null/tailwindcss.png"/>
 </div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teatou &theme=radical) 
