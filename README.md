@@ -9,7 +9,6 @@
   <img src="https://img.icons8.com/color/48/null/css3.png"/>
   <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/null/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/null/gatsbyjs.png"/></div>
 <div>
   <img src="https://img.icons8.com/color/48/null/linux--v1.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
