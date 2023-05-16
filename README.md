@@ -1,4 +1,4 @@
-<i>My personal site</i><span>[teatou.tech](https://teatou.tech)</span>
+<i>My personal site\xA0</i><span>[teatou.tech](https://teatou.tech)</span>
 
 <h1>My stack</h1>
 <div>
