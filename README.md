@@ -1,3 +1,5 @@
+<i>My personal site</i><span>[teatou.tech](https://teatou.tech)</span>
+
 <h1>My stack</h1>
 <div>
   <img src="https://img.icons8.com/color/48/null/golang.png"/>
