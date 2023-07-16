@@ -16,10 +16,3 @@
   <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/git.png"/>
 </div>
-
-<h1>What I`m learning</h1>
-<div>
-  <img src="https://img.icons8.com/color/48/null/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/null/sass.png"/>
-  <img src="https://img.icons8.com/color/48/null/tailwindcss.png"/>
-</div>
